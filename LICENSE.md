@@ -1,4 +1,4 @@
-# 
+# Secure Advanced SystemCare scripts for Mac OS | Ultimate Advanced SystemCare scripts for PC Windows. Featuring file indexing and system tray integration — optimized for maximum performance on every platform.
 
 
 
